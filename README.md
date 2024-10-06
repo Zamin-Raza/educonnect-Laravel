@@ -30,5 +30,5 @@ Enhance frontend design and user experience with animations, transitions, and mo
 Improve scalability and performance by optimizing database queries and caching frequently accessed data.
 Contributors:
 
-Zamin Raza - Main Developer
-Shahryar Amjad - group partner front end developer
+Zamin Raza - Developer
+Shahryar Amjad - group partner  developer
